@@ -28,4 +28,4 @@ Steps to reproduce:-
 2. Go to http://localhost/vloggers_merch/?p=my_account
 2. In that go to "Manage Account" and where you can put your "Firstname", edit that and put your payload. 
 3. Now fill the other details and save it.
-4. You can see our xss payload was triggered
+4. You can see our xss payload was triggered.
